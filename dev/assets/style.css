@@ -12,6 +12,10 @@ body, html.theme--documenter-dark body, .admonition, html.theme--documenter-dark
   font-size: 16pt;
 }
 
+h3 {
+  font-size: 1.2em !important;
+}
+
 summary {
   margin-bottom: 1em;
   cursor: pointer;
