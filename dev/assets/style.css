@@ -26,6 +26,10 @@ p a, ol a, ul a:not(.tocitem), blockquote a {
   text-decoration: underline;
 }
 
+table {
+  text-align: left;
+}
+
 /* Fix the prev/next links touching at certain phone sizes */
 .docs-footer-nextpage {
   padding-left: 1em;
