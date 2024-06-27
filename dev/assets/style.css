@@ -1,5 +1,5 @@
 /* Hide default features */
-#documenter-article-toggle-button, .breadcrumb ul {
+#documenter-article-toggle-button, .breadcrumb ul, a[title^="View"] {
   display: none;
 }
 
@@ -17,9 +17,7 @@ h3 {
 }
 
 summary {
-  margin-bottom: 1em;
   cursor: pointer;
-  text-decoration: underline;
 }
 
 p a, ol a, ul a:not(.tocitem), blockquote a {
