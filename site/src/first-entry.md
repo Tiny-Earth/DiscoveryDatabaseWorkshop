@@ -36,6 +36,12 @@ You may also use the Additional Notes space to add any other information not cov
 
 Once you are done recording your Environmental Sample's information, click "Save" toward the top right of the form.
 
+Make sure that you are deleting accidental entries.
+
+Every time that you add or duplicate an entry, you are creating a new Status:Incomplete even if you immediately hit return on your browser. 
+
+To declutter your online workspace, click "edit" on any entry you want gone and then click "move to trash." 
+
 !!! warning "Don't Forget to Save!"
     Keep in mind that the database does not autosave. You will have to click save every time you create a new entry. 
     
